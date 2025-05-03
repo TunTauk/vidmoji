@@ -51,4 +51,4 @@ For the next step, I would like to implement emotion detection and emotions to e
 
 ## Credits
 
-Credits for [https://www.flaticon.com/packs/hand-gestures-17748111](Icon Pack)
+Credits for [Icon Pack](https://www.flaticon.com/packs/hand-gestures-17748111)
