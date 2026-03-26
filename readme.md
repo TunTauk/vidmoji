@@ -16,6 +16,13 @@ I recommend you to create a new environment before installation. Current `mediap
 
 ```sh
 conda create -n vidmoji python=3.10
+```
+
+```sh
+conda activate vidmoji
+```
+
+```sh
 conda install opencv pillow
 pip install mediapipe
 ```
